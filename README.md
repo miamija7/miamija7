@@ -1,4 +1,3 @@
-# miaevans
 
 <h1 align="center">Hi 👋🏼, I'm Mia!</h1>
 <h3 align="center">Cybersecurity and Full Stack Web Developer</h3>
